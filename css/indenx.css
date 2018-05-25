@@ -1,0 +1,180 @@
+body {
+    background-color: #f6f6f6;
+}
+.ding {
+    height: 30px;
+    line-height: 30px;
+    color: #aaa;
+}
+.ding p {
+    margin-left: 160px;
+}
+.pic {
+    float: left;
+    margin-left: 160px;
+}
+.big {
+    height: 80px;
+    line-height: 80px;
+    background-color:#2e3340;
+}
+.title li {
+    display: inline;
+    float: left;
+    height: 56px;
+    line-height: 56px;
+    margin-right: 8px;
+    font-size:14px;
+    /*margin-top: 15px;*/
+}
+.title li span {
+    margin-left: 8px;
+}
+.banner {
+    width: 1200px;
+    height: 562px;
+    background-color: #fff;
+    margin-top: 20px;
+    position: relative;
+}
+.bob  {
+    overflow: hidden;
+}
+.bob h2{
+    margin-top: 100px;
+    margin-left: 63px;
+}
+.boc {
+    padding-left: 65px;
+}
+.boc li {
+    width: 265px;
+    height: 255px;
+    float: left;
+    margin-right: 10px;
+    background-color: #f6f6f6;
+    position: relative;
+}
+.boc h4 {
+    margin-top: 20px;
+    margin-left: 10px;
+    color: #32387a
+}
+.boc .pl{
+    position: absolute;
+    bottom: 18px;
+    left: 10px;
+    color: #bca5b0;
+}
+.boc .pr  {
+    position: absolute;
+    bottom: 18px;
+    right: 10px;
+    color: #8d8d77;
+}
+.banner span a {
+    color: #323846;
+}
+.banner span {
+    position: absolute;
+    bottom: 52px;
+    right: 501px;
+    color: #a69999;
+}
+.footer {
+    height: 361px;
+  /*  width: 100%;*/
+    background-color: #2e3340;
+    margin-top: 53px;
+    position: relative;
+}
+.wen {
+    float: left;
+    margin-top: 35px;
+    margin-right: 85px;
+    float: left;
+}
+.tou {
+    font-size: 16px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.dw {
+    position: relative; 
+}
+.guan .ku {
+    margin: 0;
+    padding: 0;
+}
+.guan {
+    width: 118px;
+    height: 162px;
+    float: left;
+    margin-top: 34px;
+}
+.guan p {
+    padding-bottom: 34px;
+    text-align: center;
+}
+.ku {
+    width: 118px;
+    height: 162px;
+    float: left;
+    margin-top: 34px;
+   margin-left: 68px;
+}
+.ku p {
+    padding-bottom: 34px;
+    text-align: center;
+}
+.tel {
+    position: relative;
+    height: 197px;
+    width: 480px;
+    left:920px;
+    top:30px;
+}
+.fen {
+    position: absolute;
+    right: 371px;
+    top: 47px;
+    width: 54px;
+    height: 54px;
+    background: url(../images/icon.png) 92px -477px;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+.wb {
+    position: absolute;
+    top:47px;
+    right: 291px;
+    width: 54px;
+    height: 54px;
+    background: url(../images/icon.png) 0 -381px;
+    border: 1px solid red;
+    border-radius: 25px;
+}
+.kj {
+    position: absolute;
+    top:47px;
+    right: 211px;
+    width: 54px;
+    height: 54px;
+    border: 1px solid red;
+    background: url(../images/icon.png) 92px -380px;
+    border-radius: 15px;
+}
+.tel {
+    border-left: 1px solid red;
+}
+.nub {
+    float: left;
+    position: absolute;
+    top:107px;
+    left: 50px;
+}
+.wl {
+    position: absolute;
+    left: 250px;
+    bottom: 20px;
+}

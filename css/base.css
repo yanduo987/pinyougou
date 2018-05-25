@@ -1,0 +1,50 @@
+body, ul, h1, h2, h3, h4, h5, h6, p, input, button, dl, dt, dd {
+    margin: 0;
+    padding: 0;
+}
+body {
+    /*background-color: #ccc;*/
+    font: 14px arial, "Microsoft Yahei";
+    color: #000;
+   /* background-color: #f5f5f5;*/
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+li {
+    list-style: none;
+    /*display: inline-block;*/
+}
+img {
+    vertical-align: middle;
+    border: 0 none;
+}
+input, button {
+    border: 0 none;  /*清除边框*/
+    outline-style: none;   /*清除轮廓线*/
+}
+a {
+   /* color: #fff;*/
+    text-decoration: none;
+    display: inline-block;
+}
+.warpper {
+    width: 1200px;
+    margin: 0 auto;
+}
+.fl {
+    float: left;
+}.fr {
+    float: right;
+}
+.clearfix:before, .clearfix:after {
+            content: "";
+            display: table;
+        }
+        .clearfix:after {
+            clear: both;
+        }
+        /*兼容ie6、ie7清除浮动*/
+        .clearfix {
+            *zoom: 1;
+        }
